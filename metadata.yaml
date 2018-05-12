@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '2224'
     url: http://www.gutenberg.org/2009/agents/2224
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38389#Stanley-s-Adventures-in-the-Wilds-of-AfricaA-Graphic-Account-of-the-Several-Expeditions-of-He_
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2011-12-23'
 gutenberg_type: Text
