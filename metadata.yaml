@@ -1,0 +1,41 @@
+_repo: Stanley-s-Adventures-in-the-Wilds-of-AfricaA-Graphic-Account-of-the-Several-Expeditions-of-He__38389
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Johnson, Willis Fletcher
+    alias: Johnson, W. Fletcher (Willis Fletcher)
+    birthdate: 1857
+    deathdate: 1931
+    gutenberg_agent_id: '36704'
+    url: http://www.gutenberg.org/2009/agents/36704
+  - agent_name: Headley, Joel Tyler
+    aliases:
+    - Headley, Joel T. (Joel Tyler)
+    - Headley, J. T. (Joel Tyler)
+    birthdate: 1813
+    deathdate: 1897
+    gutenberg_agent_id: '2224'
+    url: http://www.gutenberg.org/2009/agents/2224
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38389'
+  lccn: 05009131
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Stanley, Henry M. (Henry Morton), 1841-1904'
+- !lcc 'DT'
+- !lcsh 'Africa, Central -- Description and travel'
+title: 'Stanley''s Adventures in the Wilds of Africa
+
+  A Graphic Account of the Several Expeditions of Henry M. Stanley into the Heart
+  of the Dark Continent'
+url: http://www.gutenberg.org/ebooks/38389
